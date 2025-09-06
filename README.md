@@ -1,6 +1,5 @@
-# 📘 C# Programming Roadmap (80/20 Principle)
+# 📘 C# Programming
 
-This roadmap follows the **80/20 principle** (focus on the 20% concepts that give 80% practical benefits).  
 It covers **C# concepts from basic to advanced** that are essential for real-world development.
 
 ---
