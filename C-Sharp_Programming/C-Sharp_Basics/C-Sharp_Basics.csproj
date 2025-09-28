@@ -8,9 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="1%29 OOP\" />
     <Folder Include="2%29 SOLID\" />
     <Folder Include="3%29 Clean Code Practices\" />
+    <Folder Include="Collections &amp; Generics\" />
+    <Folder Include="Exception Handling\" />
   </ItemGroup>
 
   <ItemGroup>
