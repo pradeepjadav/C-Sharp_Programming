@@ -1,0 +1,35 @@
+#region Theorys
+
+/*
+
+    
+
+*/
+
+#endregion
+
+#region Why It Matters in Real World
+
+/*
+
+    
+
+*/
+
+#endregion
+
+#region Praticle
+
+
+
+#endregion
+
+#region Interviwe Q&A
+
+/*
+
+
+
+*/
+
+#endregion
