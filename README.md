@@ -34,8 +34,8 @@ This roadmap combines **fundamental topics + advanced professional skills** so y
 
 | Topic | Why It Matters (80/20 Benefit) |
 |-------|--------------------------------|
-| Object-Oriented Programming (OOP: Class, Object, Inheritance, Polymorphism, Encapsulation, Abstraction) | 80% of real-world projects are OOP-based |
-| Constructors, Properties, Static Members | Core structure of enterprise apps |
+| Object-Oriented Programming ([OOP (Core Building Layer)]: Classes & Objects, Constructors, Inheritance & base/derived classes, Polymorphism [method overriding, virtual/override], Encapsulation [get/set, access modifiers], Abstraction [abstract class, interface]) | 80% of real-world projects are OOP-based |
+| Constructors, Fields,, Properties, Static Members | Core structure of enterprise apps |
 | Structs vs Classes, Enums | Lightweight data structures |
 | Collections (`List`, `Dictionary`, `Queue`, `Stack`, `HashSet`) | Replace arrays with flexible data handling |
 | Generics (`List<T>`, `Dictionary<TKey,TValue>`) | Strongly typed reusable collections |
@@ -66,7 +66,9 @@ This roadmap combines **fundamental topics + advanced professional skills** so y
 | Design Patterns (Singleton, Repository, Factory, Observer) | Standard reusable solutions |
 | Unit Testing & Mocking (xUnit, NUnit, Moq) | Saves debugging time |
 | Tuples & Pattern Matching | Concise and powerful coding |
+| Memory Management | Garbage Collector basics |
 | Records (C# 9+) | Immutable, value-based objects |
+| C# 10/11/12 new features (depending on .NET version) |
 
 🔑 **Practice Ideas:**  
 - Weather API Caller (async/await)  
@@ -98,8 +100,25 @@ This roadmap combines **fundamental topics + advanced professional skills** so y
 
 ---
 
+## Real-World Development Layer and interviews
+> Goal: Apply C# in projects and interviews.
+
+| Topic | Why It Matters (80/20 Benefit) |
+|-------|--------------------------------|
+| .NET Fundamentals (CLR, BCL, CTS) |
+| C# with Databases (ADO.NET, EF Core basics) |
+| Unit Testing (xUnit / NUnit / MSTest) |
+| Design Patterns (Singleton, Repository, Factory, Dependency Injection) |
+| Best Practices (SOLID, DRY, KISS, YAGNI) |
+| API Development Basics (REST using .NET Core) |
+
+🔑 **Practice Ideas:**  
+- Build a capstone project (Task Manager, Notes App, Inventory System).
+
+---
+
 ## 📌 How to Learn (80/20 Rule)
-- **20% Theory** → Read docs, tutorials, short notes.  
+- **20% Theory** → Read docs, tutorials, and short notes.  
 - **80% Practice** → Build projects, solve coding challenges, refactor code.  
 - Focus on **small, practical apps** at each level.  
 - Apply concepts immediately in **mini-projects**.  
