@@ -11,6 +11,13 @@ internal class Program
         ClassesAndObjects.PraticleExampleOne();
         ClassesAndObjects.PraticleExampleTwo();
 
+        // Constructors
+        Constructors.PraticeExampleForDefaultConstructor();
+        Constructors.PraticleExampleForParameterizedConstructor();
+        Constructors.PraticleExampleForCopyConstructor();
+        Constructors.PraticleExampleForStaticConstructor();
+
+
 
     }
 }
