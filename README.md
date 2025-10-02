@@ -103,14 +103,14 @@ This roadmap combines **fundamental topics + advanced professional skills** so y
 ## Real-World Development Layer and interviews
 > Goal: Apply C# in projects and interviews.
 
-| Topic | Why It Matters (80/20 Benefit) |
+| Topic | More Explore |
 |-------|--------------------------------|
-| .NET Fundamentals (CLR, BCL, CTS) |
-| C# with Databases (ADO.NET, EF Core basics) |
-| Unit Testing (xUnit / NUnit / MSTest) |
-| Design Patterns (Singleton, Repository, Factory, Dependency Injection) |
-| Best Practices (SOLID, DRY, KISS, YAGNI) |
-| API Development Basics (REST using .NET Core) |
+| .NET Fundamentals | (CLR, BCL, CTS) |
+| C# with Databases | (ADO.NET, EF Core basics) |
+| Unit Testing | (xUnit / NUnit / MSTest) |
+| Design Patterns | (Singleton, Repository, Factory, Dependency Injection) |
+| Best Practices | (SOLID, DRY, KISS, YAGNI) |
+| API Development Basics | (REST using .NET Core) |
 
 🔑 **Practice Ideas:**  
 - Build a capstone project (Task Manager, Notes App, Inventory System).
