@@ -56,5 +56,26 @@ internal class Program
         // Access Modifiers
         Encapsulation.PraticeExampleForAccessModifiers();
         #endregion
+
+        #region Abstraction
+        Abstraction.PraticeExampleForAbstractionClass();
+        Abstraction.PraticeExampleForInterface();
+        Abstraction.PraticeExampleBothabtractionForMultipleInheritance();
+
+        // Abstract Class 
+        AbstractClass.PraticeExampleOne();
+        AbstractClass.PraticeExampleTwo();
+        AbstractClass.PraticeExampleThree();
+        AbstractClass.PraticeExampleFour();
+
+        // Interface
+        Interface.PraticeExampleOne(); 
+        Interface.PraticeExampleTwo();
+        Interface.PraticeExampleThree();
+        Interface.PraticeExampleFour();
+        Interface.PraticeExampleFive();
+        Interface.PraticeExampleSix();
+
+        #endregion
     }
 }
