@@ -9,17 +9,19 @@ internal class Program
 
         Console.WriteLine(BasicsCommon.GetGreeting());
 
-        // Classes And Objects
+        #region Classes And Objects
         ClassesAndObjects.PraticleExampleOne();
         ClassesAndObjects.PraticleExampleTwo();
+        #endregion
 
-        // Constructors
+        #region Constructors
         Constructors.PraticeExampleForDefaultConstructor();
         Constructors.PraticleExampleForParameterizedConstructor();
         Constructors.PraticleExampleForCopyConstructor();
         Constructors.PraticleExampleForStaticConstructor();
+        #endregion
 
-        // Inheritence 
+        #region Inheritence
         Inheritance.PraticeExampleOne();
         Inheritance.PraticeExampleTwoForBaseKeyWord();
         // Types of Inheritance
@@ -29,8 +31,9 @@ internal class Program
 
         // Diamond Problem in Inheritance 
         DiamondProblem.PraticeExample(); // This is a resolved example.
+        #endregion
 
-        // Polymorphism
+        #region Polymorphism
         // 1. Compile -time Polymorphism
         Polymorphism.PraticeExampleOneForCompileTimePolymorphism(); // method overloading
         Polymorphism.PraticeExampleTwoForCompileTimePolymorphism(); // operator overloading
@@ -38,6 +41,20 @@ internal class Program
         Polymorphism.PraticeExampleForRuntimePolymorphism(); // method overriding
         Polymorphism.PraticeExampleForBaseKeywordInRuntimePolymorephism(); // base key word
         Polymorphism.PraticeExampleForMethodHidingInRuntimePolymorephism(); // mew key word
+        #endregion
 
+        #region Encapsulation
+        Encapsulation.PraticeExampleWithoutEncapsulation(); // (Bad Practice)
+        Encapsulation.PraticeExampleWithEncapsulation(); // (Good Pratice)
+
+        // Properties (get / set)
+        Encapsulation.PraticeExampleWithFullPropertys();
+        Encapsulation.PraticeExampleAutoImplimented();
+        Encapsulation.PraticeExampleReadOnly();
+        Encapsulation.PraticeExampleWriteOnly();
+
+        // Access Modifiers
+        Encapsulation.PraticeExampleForAccessModifiers();
+        #endregion
     }
 }
