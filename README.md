@@ -1,4 +1,4 @@
-# 📘 C# Programming Roadmap (Following 80/20 Principle)
+# C# Programming Roadmap (Following 80/20 Principle)
 
 Learn **C# from basics to advanced** with an **80/20 approach**:  
 - **20% theory** → understand key concepts.  
